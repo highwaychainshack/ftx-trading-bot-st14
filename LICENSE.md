@@ -1,4 +1,4 @@
-# 
+# high-frequency Trading Bot for ftx trading bot | take-profit & isolated-margin offers the most advanced ftx trading bot, with take-profit and isolated-margin. Ideal for
 
 
 
